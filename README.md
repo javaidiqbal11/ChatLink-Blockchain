@@ -35,10 +35,6 @@ Contributions to ChatLink are welcome! If you encounter any bugs, have suggestio
 
 Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on the development process and coding conventions.
 
-## License
-
-ChatChain is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the project as per the terms outlined in the license.
-
 ## Contact
 
 For any inquiries or questions regarding ChatLink, please reach out to me.
